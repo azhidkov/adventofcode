@@ -30,3 +30,4 @@ void part_one() {
 	}
 
 	std::cout << "distance: " << distance << '\n';
+}
